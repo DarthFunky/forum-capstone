@@ -1,1 +1,6 @@
 body {background-color: bisque;}
+/* header 1 formatting */
+h1 {font-family:"Times New Roman"}
+h1 {text-align: center}
+h1 {font-size: 85px}
+/*body formatting*/
