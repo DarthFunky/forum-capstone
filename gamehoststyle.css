@@ -1,18 +1,26 @@
 body {background-color: bisque;}
-/* header 1 formatting */
-h1 {font-family:"Times New Roman"}
-h1 {text-align: center}
+/*title text formatting*/
+h1 {font-family: "Times New Roman"}
+h1 {text-align: "center"}
 h1 {font-size: 85px}
+/* subtitle 1 text formatting */
+h2 {font-family:"Times New Roman"}
+h2 {text-align: center}
+h2 {font-size: 40px}
 /*body formatting*/
 body {background-color: bisque;}
 body {font-family: "Times New Roman"}
 body {text-align: center}
 body {font-size: 40px}
-/*demo video formatting*/
-h2 {font-family: "Times New Roman"}
-h2 {text-align: center}
-h2 {font-size: 40px}
-/*screenshot gallery formatting*/
+/*demo video text formatting*/
 h3 {font-family: "Times New Roman"}
-h3 {text-align: "center"}
+h3 {text-align: center}
 h3 {font-size: 40px}
+/*screenshot gallery text formatting*/
+h4 {font-family: "Times New Roman"}
+h4 {text-align: "center"}
+h4 {font-size: 40px}
+/*explanation text formatting*/
+h5 {font-family: "Times New Roman"}
+h5 {text-align: "center"}
+h5 {font-size: 40px}
