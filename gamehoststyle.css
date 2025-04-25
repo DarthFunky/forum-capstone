@@ -4,3 +4,15 @@ h1 {font-family:"Times New Roman"}
 h1 {text-align: center}
 h1 {font-size: 85px}
 /*body formatting*/
+body {background-color: bisque;}
+body {font-family: "Times New Roman"}
+body {text-align: center}
+body {font-size: 40px}
+/*demo video formatting*/
+h2 {font-family: "Times New Roman"}
+h2 {text-align: center}
+h2 {font-size: 40px}
+/*screenshot gallery formatting*/
+h3 {font-family: "Times New Roman"}
+h3 {text-align: "center"}
+h3 {font-size: 40px}
